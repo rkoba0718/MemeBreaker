@@ -76,5 +76,9 @@ crashlytics-build.properties
 
 # Imported Assets from Unity Asset Store
 /ImportedAssets/
+ImportedAssets.meta
+
+# DS_Store
+.DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
