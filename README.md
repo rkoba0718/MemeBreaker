@@ -22,7 +22,7 @@ https://unityroom.com/games/meme_breaker にアクセス
 
 全画面で楽しんでください！
 
-# 遊び方
+# 操作
 
 移動：矢印キー
 
